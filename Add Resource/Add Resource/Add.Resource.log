@@ -1,0 +1,29 @@
+﻿Build started 2/22/2013 3:00:23 PM.
+     1>Project "D:\Source Codes\Binder C++\Add Resource\Add Resource\Add Resource.vcxproj" on node 2 (build target(s)).
+         Creating directory "Debug\".
+         Creating "Debug\lastbuild.timestamp" because "AlwaysCreate" was specified.
+     1>ClCompile:
+         Main.cpp
+     1>d:\source codes\binder c++\add resource\main.cpp(16): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(72) : see declaration of 'strcpy'
+       ManifestResourceCompile:
+         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7000.0
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+       Manifest:
+         Microsoft (R) Windows (R) Resource Compiler Version 6.1.7000.0
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+       LinkEmbedManifest:
+         Add Resource.vcxproj -> D:\Source Codes\Binder C++\Add Resource\Add Resource\Debug\Add Resource.exe
+       _AfterBuild:
+         Creating "Debug\LastSuccessfulBuild.timestamp" because "AlwaysCreate" was specified.
+     1>Done Building Project "D:\Source Codes\Binder C++\Add Resource\Add Resource\Add Resource.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.35
